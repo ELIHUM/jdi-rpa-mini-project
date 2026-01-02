@@ -1,0 +1,4 @@
+[2026-01-01 16:35:55] START processing 10 requests
+[2026-01-01 16:35:55] ISSUE REQ-008: Invalid email format
+[2026-01-01 16:35:56] DONE. Output: C:\Users\elihu\OneDrive\Documents\jdi-rpa-mini-project\outputs\output_report.xlsx
+[2026-01-01 16:35:56] KPIs: total=10, issues=1, ok=9
